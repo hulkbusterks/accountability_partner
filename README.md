@@ -1,0 +1,1 @@
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/hulkbusterks/accountability_partner?utm_source=oss&utm_medium=github&utm_campaign=hulkbusterks%2Faccountability_partner&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
